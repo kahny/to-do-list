@@ -1,0 +1,40 @@
+body{
+  background: url('../images/old_map.png') 0 0 repeat;
+}
+
+.task {
+    text-decoration: line-through;
+    color: gray;
+  }
+
+.inline{
+  display: inline;
+  color:blue;
+}
+
+.list{
+
+  font-size:24px;
+  list-style: none;
+}
+
+.todolist{
+  /*background-color: yellow;*/
+  margin-top: -25px;
+}
+
+.header{
+  background-color:rgba(38,38,38,1);
+  color:white;
+  font-family: 'Vibur';
+  margin-bottom: 5%;
+  padding: 1em;
+}
+
+.todo-form{
+  margin-top: 30px;
+}
+
+/*.tag-line{
+  font-family: 'Vibur';
+}*/
